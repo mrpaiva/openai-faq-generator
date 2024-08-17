@@ -7,7 +7,7 @@ import os
 def main():
     # Diretório de entrada e saída
     source_directory = "data/source"
-    output_directory = "data/corpus"
+    output_directory = "data/faq"
     
     # Certifique-se de que o diretório de saída exista
     os.makedirs(output_directory, exist_ok=True)
