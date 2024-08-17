@@ -46,7 +46,6 @@ openai-faq-generator/
 3. Configure suas variáveis de ambiente no arquivo `.env`:
     
     ```makefile
-    makefileCopiar código
     OPENAI_API_KEY=your_openai_api_key
     ```
     
